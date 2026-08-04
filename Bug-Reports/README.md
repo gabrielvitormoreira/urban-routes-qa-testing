@@ -12,4 +12,3 @@ Each report should include:
 - Actual result
 - Severity
 - Status
-- 
